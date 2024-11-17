@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://lelakisampingan:LakiSamping135@cluster0.4c0j5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret": "usersecrettoken"
+}
